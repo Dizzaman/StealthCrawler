@@ -22,7 +22,7 @@ def display_startup_graphic():
 
 if __name__ == "__main__":
     display_startup_graphic()
-    # Your script's main functionality follows here...
+    
 import asyncio
 import aiohttp
 from bs4 import BeautifulSoup
